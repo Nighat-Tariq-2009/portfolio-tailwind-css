@@ -4,7 +4,7 @@ export default function Education(){
         <main className="w-full h-full min-h-screen flex flex-col justify-center items-center bg-gray-100 mt-10">
            <div className="edu-text">
            <h1 className="text-center text-3xl text-slate-800 font-bold pb-5" >EDUCATION</h1>
-            <p className="w-[60%] text-center m-auto text-slate-600 pb-5">"My educational journey has provided me with a strong foundation in science, equipping me with analytical and problem-solving skills that I apply in my development projects. Here’s a summary of my academic background:"</p>
+            <p className="w-[60%] text-center m-auto text-slate-600 pb-5">"My educational journey has provided me with a strong foundation in science, equipping me with analytical and problem-solving skills that I apply in my development projects. Here is a summary of my academic background:"</p>
            </div>
            <div className="flex justify-between items-center w-[80%] bg-white pt-8 mt-10 px-3">
             <div className="flex flex-col">
