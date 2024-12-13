@@ -21,7 +21,7 @@ function About(){
                 {/* right */}
                 <div className="w-[80%] md:w-[60%] mb-8">
                     <h1 className="text-3xl  font-bold text-slate-800 mb-5">About us </h1>
-                    <p className="text-slate-600"> I am learning the essentials of HTML, CSS, and JavaScript. I am starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project, I'm gaining confidence in my coding skills and looking forward to exploring more advanced topics like frameworks and APIs the essentials of HTML, CSS, and JavaScript. I amm starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project.</p>
+                    <p className="text-slate-600"> I am learning the essentials of HTML, CSS, and JavaScript. I am starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project, I am gaining confidence in my coding skills and looking forward to exploring more advanced topics like frameworks and APIs the essentials of HTML, CSS, and JavaScript. I amm starting to understand the basics of front-end design, responsive layouts, and adding interactivity to make sites more engaging. With each new project.</p>
                    
                 </div>
                 
